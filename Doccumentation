@@ -1,0 +1,5 @@
+1.Drawing a 5 pointed star with turtle graphics
+
+  2.This Python program uses the turtle module to draw a 5-pointed star by looping forward and turning 144 degrees
+
+  3.This Python program uses the turtle module to draw a 5 pointed star.It creates a drawing window and a turtle to draw on it.The turtle moves forward by 100 units and turns 144 degrees to form the star shape.
